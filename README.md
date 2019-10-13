@@ -3,12 +3,12 @@
 ## Obrigatório
 1. Clone no projeto.
 ```bash
-$ git clone https://github.com/YaakovDantas/kelev.git
+$ git clone https://github.com/YaakovDantas/glida.git
 ```
 
 2. Entre no diretorio raiz do projeto.
 ```bash
-seu/path/petmania
+seu/path/glida
 ```
 
 3. Crie uma [`virtualenv`](https://virtualenv.pypa.io/en/latest/index.html).
