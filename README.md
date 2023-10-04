@@ -1,6 +1,6 @@
 # Welcome to kelev project
 
-## Obrigatório
+## Instruções de configuração
 1. Clone no projeto.
 ```bash
 $ git clone https://github.com/YaakovDantas/kelev.git
